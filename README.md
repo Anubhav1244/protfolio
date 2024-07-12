@@ -3,7 +3,7 @@
  My Porfolio Website is live now! [Click me].
 
 
-![image](https://user-images.githubusercontent.com/92267208/209716902-22153619-d71a-454d-8ef7-a7408544c5c3.png)
+![image]
 
 Built using:
 
